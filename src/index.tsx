@@ -120,6 +120,7 @@ export default class InstagramEmbed extends React.PureComponent<Props, State> {
 
   private omitComponentProps() {
     const {
+      accessToken,
       url,
       hideCaption,
       maxWidth,
