@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sugarshin/react-instagram-embed.git"
+    "url": "git+https://github.com/maven-labs/react-instagram-embed.git"
   },
-  "author": "sugarshin",
+  "author": "maven-labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sugarshin/react-instagram-embed/issues"
+    "url": "https://github.com/maven-labs/react-instagram-embed/issues"
   },
-  "homepage": "https://github.com/sugarshin/react-instagram-embed#readme",
+  "homepage": "https://github.com/maven-labs/react-instagram-embed#readme",
   "ava": {
     "require": [
       "@babel/register",
